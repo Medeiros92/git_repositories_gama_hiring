@@ -30,7 +30,7 @@
         - If the user refreshes the page, he is 
           automatically redirected to the home page.
 
-**Thanks for visiting the repository "react_gama_HirinCoders"**
+**Thanks for visiting the repository "git_repositories_gama_hiring"**
 
 
 [codeimg]:https://icons.iconarchive.com/icons/thehoth/seo/16/seo-web-code-icon.png
