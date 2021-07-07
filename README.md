@@ -17,7 +17,8 @@
 
 **![codeimg] Repositories Page**
 
-    This repositories page has all the listed names of the user repositories and 1 link back to the home page.
+    This repositories page has all the listed names of the user 
+    repositories and 1 link back to the home page.
 
         - List with repository names.
 
